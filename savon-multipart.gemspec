@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include? lib
 require "savon/multipart/version"
 
 Gem::Specification.new do |s|
-  s.name        = "savon-multipart"
+  s.name        = "savon-multipart--feb-2019"
   s.version     = Savon::Multipart::VERSION
   s.authors     = ["Martin Westin", "Daniel Harrington"]
   s.email       = ["martin@eimermusic.com", "me@rubiii.com"]
