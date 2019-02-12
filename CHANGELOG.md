@@ -1,6 +1,11 @@
-## 2.1.1 (current)
+## 2.1.2 (current)
 
-* Improve detection of multipart content-type header.s
+* Add ability to flatten MTOM XOP parts back into the main XML document.
+* Update mail dependency to mail 2.6
+
+## 2.1.1
+
+* Improve detection of multipart content-type header.
 
 ## 2.1.0
 
